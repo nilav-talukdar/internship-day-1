@@ -1,6 +1,6 @@
 # Usability Hub
 
-![Usability Hub Banner](public/banner.png)
+![Usability Hub Banner](public/assets/banners/banner.png)
 
 ## Overview
 
